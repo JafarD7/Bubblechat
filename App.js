@@ -16,6 +16,6 @@ const styles = StyleSheet.create({
     flex: 1,
     backgroundColor: 'blue',
     alignItems: 'center',
-    justifyContent: 'Its me please commit it',
+    justifyContent: 'Can we do it again??',
   },
 });
